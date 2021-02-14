@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+flask-login
+werkzeug
+pandas

@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ._auth
+._auth.py
+
+# .iml
+*.iml
